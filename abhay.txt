@@ -1,0 +1,1 @@
+Alexa should use $git pull upstream master to update her local repo from remote repo.
