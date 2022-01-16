@@ -1,0 +1,2 @@
+I have understood every topics i FOSS workshop.
+However due to lack of practice i am yet to have a  command in git.
